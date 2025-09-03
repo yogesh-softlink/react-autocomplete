@@ -1,6 +1,6 @@
 {
   "name": "@yogesh-softlink/react-autocomplete",
-  "version": "1.8.5",
+  "version": "1.8.6",
   "description": "Accessible, extensible, Autocomplete for React.js",
   "main": "./build/lib/Autocomplete.js",
   "files": [
